@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project2", "project2\project2.csproj", "{0DB5048E-E0B8-4606-B70D-9C3DD9F77AA2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tuan1", "Tuan1", "{CCA35775-CB5D-44BD-9539-7C7B2C8A8E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{0DB5048E-E0B8-4606-B70D-9C3DD9F77AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DB5048E-E0B8-4606-B70D-9C3DD9F77AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DB5048E-E0B8-4606-B70D-9C3DD9F77AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA} = {CCA35775-CB5D-44BD-9539-7C7B2C8A8E82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06BA14D7-A4E8-4B3C-831F-19AFD8637F9D}
