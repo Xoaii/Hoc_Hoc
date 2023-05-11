@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tuan1", "Tuan1", "{CCA35775
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "calljava", "calljava", "{F7388CFD-8CCD-4403-83D9-9FD33C2BB702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calljava", "calljava\calljava.csproj", "{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,17 @@ Global
 		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CF08E6C6-4EA3-4743-B7BD-C781A7A06ADA} = {CCA35775-CB5D-44BD-9539-7C7B2C8A8E82}
+		{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2} = {F7388CFD-8CCD-4403-83D9-9FD33C2BB702}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06BA14D7-A4E8-4B3C-831F-19AFD8637F9D}
