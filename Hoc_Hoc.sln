@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "calljava", "calljava", "{F7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calljava", "calljava\calljava.csproj", "{FF6601D6-64DC-4D76-B7FC-B1EF4DF3F3F2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "voice_python", "voice_python", "{48F91E51-2A43-4EE8-B1E7-DB94BF47D1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
